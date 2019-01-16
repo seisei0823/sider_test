@@ -1,0 +1,7 @@
+linter:
+  rubocop:
+    gems:
+      - foo_gem
+    config: .myrubocop.yml
+    rails: false
+    safe: true.
